@@ -1,0 +1,39 @@
+Skills to become a Penetration Tester:
+-> Understanding the Basics (2-3 months)
+	1. Networking Fundamentals
+	2. Operating Systems
+	3. Programming/Scripting
+-> Learning Cybersecurity Basics (1-2 months)
+	1. Security Concepts
+	2. Threats and Vulnerablities
+-> Introduction to Ethical Hacking (1-2 months)
+	1. Ethical Hacking principles
+	2. Legal and Regulatory issues
+	3. Ethical Hacking Methodology
+-> Tools and Techniques (3-4 months)
+	1. Penetration Testing Tools (Nmap , Metasploit , Wireshark , Burpsuite)
+	2. Vulnerablity Scanning (Nessus , OpenVAS)
+	3. Web Application Testing (OWASP Top 10)
+-> Specialized penetration Testing Areas (3-4 months)
+	1. Networking Penetration Testing
+	2. Web Application Penetration Testing
+	3. Wireless Network Penetration Testing
+	4. Social Engineering 
+-> Certifications (6-12 months)
+	1. CompTIA Security
+	2. Certified Ethical Hacker (CEH)
+	3. Offensive Security Certified Perfessional (OSCP)
+-> Gaining Practical Experience
+	1. Build Home lab
+	2. Capture the Flag (CTF)
+	3. Bug Bounty Programs
+-> Advanced penetration testing techniques (2-3 months)
+	1. Advanced Exploitation
+	2. Post Exploitation
+	3. Report Writing
+-> Continous Learning 
+	1. Stay updated
+	2. join Communities
+	
+-> Free Advise make Linkedin Profile and upload achievements on it and also make connection with industry specials
+	
